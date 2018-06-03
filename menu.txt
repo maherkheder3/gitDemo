@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 The Master 3 after test
 =======
-Her is Spaghetti
->>>>>>> spaghetti
+Her is Spaghett
