@@ -4,9 +4,13 @@ I am in test
 
 
 
+<<<<<<< HEAD
 
 from new branch
 
 
 
 s
+=======
+from new branch
+>>>>>>> newBranchFromTest
