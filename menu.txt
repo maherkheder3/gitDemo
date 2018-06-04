@@ -1,4 +1,12 @@
-<<<<<<< HEAD
-The Master 3 after test
-=======
-Her is Spaghett
+The Master 2
+
+I am in test
+
+
+
+
+from new branch
+
+
+
+s
